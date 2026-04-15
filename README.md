@@ -1,4 +1,4 @@
-<img width="6055" height="2210" alt="architecture" src="https://github.com/user-attachments/assets/a7ac2e52-1e0c-4c21-b639-75f4e22b5e60" />
+![Architecture](assets/architecture.png)
 
 > [!NOTE]
 > 
