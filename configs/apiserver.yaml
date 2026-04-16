@@ -1,0 +1,5 @@
+listenAddress: ":8080"
+nodes:
+  - name: "mube-node-1"
+    ip: "127.0.0.1"
+    port: 10250
